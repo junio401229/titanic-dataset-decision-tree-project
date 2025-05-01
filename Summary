@@ -1,0 +1,15 @@
+Materi yg saya ingat sampai UTS
+
+1. Pengantar Data Mining
+Di awal perkuliahan, saya belajar apa itu data mining. Intinya, data mining itu proses nyari pola atau informasi penting dari data yang jumlahnya banyak banget. saya juga dikenalin ke tahapan-tahapannya,
+mulai dari ngerti masalah, ngumpulin data, sampai nyoba bikin model buat prediksi.
+
+2. Data
+Di bagian ini, saya belajar jenis-jenis data (kayak data angka dan data kategori), terus gimana caranya biar data yang saya pakai itu bagus dan bersih. Ada juga materi tentang
+preprocessing data, kayak nge-handle data yang kosong, normalisasi, sampai ubah data jadi format yang bisa diproses mesin.
+
+3. Eksplorasi Data
+Sebelum bikin model, saya harus tahu dulu isi data itu kayak apa. Jadi saya pakai statistik dasar (rata-rata, median, dsb) dan visualisasi data (grafik, pie chart, dll) biar lebih gampang dipahami.
+
+4. Praktik Klasifikasi pakai Python
+Supaya lebih ngerti, saya juga belajar coding dasar Python dan langsung praktek bikin model klasifikasi (khususnya Decision Tree) pakai dataset beneran.
